@@ -1,4 +1,7 @@
-﻿mojaCyfra = 5
+﻿# Ćwiczenie "zgadnij liczbę"
+
+
+mojaCyfra = 5
 cyfraZagadka = 0
 
 while cyfraZagadka != mojaCyfra:

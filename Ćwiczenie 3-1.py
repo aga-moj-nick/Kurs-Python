@@ -1,3 +1,4 @@
+﻿# ćwiczenie "jak masz na imię?"
 print ("Jak masz na imię?")
 imie = input ()
 print ("Hej ", imie.capitalize (), ",", " jak masz na nazwisko?", sep= "")

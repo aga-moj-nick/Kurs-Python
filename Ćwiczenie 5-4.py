@@ -1,4 +1,6 @@
-﻿wynik = 0
+﻿# Ćwiczenie - dodawanie trzech dodatnich liczb parzystych
+
+wynik = 0
 i = 0
 
 while i < 3:

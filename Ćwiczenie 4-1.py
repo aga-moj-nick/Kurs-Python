@@ -1,4 +1,6 @@
-﻿wybor = input ("* - mnożenie, / - dzielenie, + - dodawanie, - - odejmowanie, ** - potęgowanie, % - modulo: ")
+﻿# Ćwiczenie "kalkulator"
+
+wybor = input ("* - mnożenie, / - dzielenie, + - dodawanie, - - odejmowanie, ** - potęgowanie, % - modulo: ")
 
 a = int (input ("Pierwsza liczba to: "))
 b = int (input ("Druga liczba to: "))

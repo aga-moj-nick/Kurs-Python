@@ -1,4 +1,6 @@
-﻿mojKolor = str ("czerwony")
+﻿# Ćwiczenie "zgadnij kolor"
+
+mojKolor = str ("czerwony")
 kolorZagadka = " "
 
 
